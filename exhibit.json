@@ -1,0 +1,223 @@
+{
+  "Images": [
+    {
+      "Name": "i0",
+      "Description": "",
+      "Path": "images/R220019-12T",
+      "Width": 40423,
+      "Height": 32514,
+      "MaxLevel": 6
+    }
+  ],
+  "Header": "",
+  "Rotation": 0,
+  "Layout": {
+    "Grid": [
+      [
+        "i0"
+      ]
+    ]
+  },
+    "Stories": [
+      {
+        "Name": "",
+        "Description": "",
+        "Waypoints": [
+          {
+            "Name": "test",
+            "Description": "test description ",
+            "Arrows": [],
+            "Overlays": [],
+            "Group": "Overview",
+            "Masks": [],
+            "ActiveMasks": [],
+            "Zoom": 1,
+            "Pan": [
+              0.23265238607228517,
+              0.5558292282430213
+            ],
+            "Lensing": {
+            "Group": "H&E",
+            "Rad": 150
+
+            }
+          }
+        ]
+      }
+    ],
+  "Channels": [
+    {
+      "Rendered": false,
+      "Name": "Hoechst",
+      "Path": "Hoechst_0__Hoechst"
+    },
+    {
+      "Rendered": false,
+      "Name": "SPP1",
+      "Path": "SPP1_2__SPP1"
+    },
+    {
+      "Rendered": false,
+      "Name": "SMA",
+      "Path": "SMA_10__SMA"
+    },
+    {
+      "Rendered": false,
+      "Name": "CD44v9",
+      "Path": "CD44v9_7__CD44v9"
+    },
+    {
+      "Rendered": false,
+      "Name": "CD8a",
+      "Path": "CD8a_8__CD8a"
+    },
+    {
+      "Rendered": false,
+      "Name": "PD-L1",
+      "Path": "PD-L1_16__PD-L1"
+    },
+    {
+      "Rendered": false,
+      "Name": "SOX10",
+      "Path": "SOX10_17__SOX10"
+    },
+    {
+      "Rendered": false,
+      "Name": "VIMENTIN",
+      "Path": "VIMENTIN_19__VIMENTIN"
+    },
+    {
+      "Rendered": false,
+      "Name": "PAN-CK",
+      "Path": "PAN-CK_18__PAN-CK"
+    },
+    {
+      "Rendered": false,
+      "Name": "Ki67",
+      "Path": "Ki67_3__Ki67"
+    },
+    {
+      "Rendered": false,
+      "Name": "CD163",
+      "Path": "CD163_15__CD163"
+    },
+    {
+      "Rendered": false,
+      "Name": "Granzyme B",
+      "Path": "Granzyme-B_9__Granzyme-B"
+    },
+    {
+      "Rendered": false,
+      "Name": "GFAP",
+      "Path": "GFAP_4__GFAP"
+    },
+    {
+      "Rendered": false,
+      "Name": "MIST1",
+      "Path": "MIST1_11__MIST1"
+    },
+    {
+      "Rendered": false,
+      "Name": "FAP",
+      "Path": "FAP_12__FAP"
+    },
+    {
+      "Rendered": false,
+      "Name": "CD11b",
+      "Path": "CD11b_13__CD11b"
+    },
+    {
+      "Rendered": false,
+      "Name": "TREM 2",
+      "Path": "TREM-2_14__TREM-2"
+    },
+      {
+        "Rendered": true,
+        "Name": "H&E",
+        "Path": "HE-0_0__HE"
+    }
+  ],
+  "Masks": [],
+  "Groups": [
+    {
+      "Name": "Overview",
+      "Colors": [
+        "0000ff",
+        "ffffff",
+        "00ffff",
+        "00ff00",
+        "ffff00",
+        "f5b907",
+        "ffffff",
+        "ff0000",
+        "a800ff",
+        "0a9728",
+        "d77cff",
+        "ff00ff",
+        "2d6968",
+        "ff0093",
+        "0090ff",
+        "78771b",
+        "f4cc80"
+      ],
+      "Channels": [
+        "Hoechst",
+        "SPP1",
+        "SMA",
+        "CD44v9",
+        "CD8a",
+        "PD-L1",
+        "SOX10",
+        "VIMENTIN",
+        "PAN-CK",
+        "Ki67",
+        "CD163",
+        "Granzyme B",
+        "GFAP",
+        "MIST1",
+        "FAP",
+        "CD11b",
+        "TREM 2"
+      ],
+      "Descriptions": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+      {
+        "Name":"H&E",
+        "Colors": [
+            "000000"
+        ],
+        "Channels": [
+            "H&E"
+        ],
+        "Descriptions": [
+            ""
+        ]
+      }
+    ],
+  "PixelsPerMicron": 3.0769230769230766,
+  "FirstViewport": {
+    "Zoom": 0.6025784753363227,
+    "Pan": [
+      0.6216245309712739,
+      0.5
+    ]
+  }
+}
